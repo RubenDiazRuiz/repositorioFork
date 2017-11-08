@@ -6,3 +6,5 @@ private void cargarImagenes(String j) {
          jLabel5.setBorder(javax.swing.BorderFactory.createBevelBorder(javax.swing.border.BevelBorder.RAISED));
 
     }
+	
+// Hola comento el codigo 
